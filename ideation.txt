@@ -1,0 +1,9 @@
+its a simple chat gpt wrapper, however, can be extended towards, content specific wrappers and switching between them. like only discuss about cricket, nothing else, or only discuss about stackoverflow and nothing else will be entertained, thereby, keeping massive contexts of the user, who are searching a particular pattern of queries.
+
+
+like, informal cover letter
+
+encoder ai, if i am doing job and want to use chatbot, then, i want to encapculate the company details, this is exactly what i will do here, a layer of changing the values and then sending it over to the pretrained model
+
+
+like for codeforces, I want to run a job, where, the input, output and answer are shown in tabular format, easily, save this context and use it whenever needed, and also keep a success percentage counter.
